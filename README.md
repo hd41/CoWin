@@ -1,7 +1,7 @@
-#COVID-19 Vaccine Slot Checker
+# COVID-19 Vaccine Slot Checker
 This is a script to check covid vaccine slots on cowin. One only need to start this script and keep it running in a terminal.
 
-###Setup
+### Setup
 Install Python (>=3.6)
 
 Edit config.py with your details.
@@ -9,7 +9,7 @@ Edit config.py with your details.
 Install all required packages using 
 `pip install requirements.txt`
 
-###Run script
+### Run script
 `python main.py`
 
 Press Ctrl+C or close the terminal to stop the script.
